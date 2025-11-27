@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Nexus",
+    "url": "https://example.com/nexus",
+    "icon": "LayoutDashboard",
+    "category": "Dashboard"
+  },
+  {
+    "name": "Stellar",
+    "url": "https://example.com/stellar",
+    "icon": "Play",
+    "category": "Media"
+  },
+  {
+    "name": "Vortex",
+    "url": "https://example.com/vortex",
+    "icon": "Download",
+    "category": "Downloads"
+  },
+  {
+    "name": "Pulsar",
+    "url": "https://example.com/pulsar",
+    "icon": "Activity",
+    "category": "Monitoring"
+  },
+  {
+    "name": "Quasar",
+    "url": "https://example.com/quasar",
+    "icon": "Settings",
+    "category": "System"
+  }
+]

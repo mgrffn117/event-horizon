@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ead03fd2-73b2-4560-ad83-9990a70d57ac",
+    "text": "Milk",
+    "completed": true,
+    "type": "shopping",
+    "createdAt": 1764012866438
+  },
+  {
+    "id": "dfdae25d-3c69-4252-9719-978b61d2b805",
+    "text": "Clean garage",
+    "completed": false,
+    "type": "todo",
+    "createdAt": 1764012887819
+  }
+]

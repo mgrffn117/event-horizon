@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  event-horizon:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: event-horizon:latest
+    container_name: event-horizon
+    ports:
+      - "3000:3000"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - ./data:/app/data
+    environment:
+      - NODE_ENV=production
+    restart: unless-stopped
