@@ -42,3 +42,10 @@ next-env.d.ts
 
 # secrets
 config/secrets.json
+
+node_modules/
+.next/
+.env
+.env.local
+.DS_Store
+config/secrets.json
